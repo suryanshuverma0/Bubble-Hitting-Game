@@ -1,0 +1,3 @@
+//concept of event bhubling
+//Sometimes we have to add event listner to many more  elements which is not the optimal way to add  event listner , for ex if we have to add event listner to 70 elements it will be too much difficult  so here the reole  of the event bubling comes
+// If the buble donot find the event listner on it it will search for the event in the parent elements if not found in parent it will find it in the garndparents elements like this the hirarchy forms.
